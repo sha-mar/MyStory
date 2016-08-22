@@ -3,7 +3,7 @@ This is about to be a fan made Maplestory Imitation
 
 
 What we should Do:
-  Get wild! just write some pieces of code.
+  Get wild!
   We'll combine it later on, and it'll light up our excitment about the game we build.
 
 
